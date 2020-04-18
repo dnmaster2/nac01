@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">nac01</string>
+    <string name="titulohistoria">A nac de android é pra hoje!</string>
+    <string name="botaoComecar">Fazer o trabalho!</string>
+    <string name="gameoverTxt">Você perdeu a hora! Fim de jogo.</string>
+    <string name="vencedorTxt">Você entregou a NAC a tempo!</string>
+
+    <string-array name="perguntas">
+        <item>Você acabou de acordar, viu as mensagens no grupo, hoje tem nac de android!</item>
+        <item>Você começar a mexer e percebe que a musica está errada, o que você toca?</item>
+        <item>Seu amigo escritor da paraiba começou a te mandar memes, o que você faz?</item>
+        <item>Você teve um problema no código, o que fazer?</item>
+    </string-array>
+
+    <string-array name="respostas">
+        <item>Vou pro pc fazer a nac</item>
+        <item>o novo single do car seat headrest</item>
+        <item>manda ele catar coquinho</item>
+        <item>Ir pro stack overflow</item>
+    </string-array>
+
+    <string-array name="erradas">
+        <item>Vou enrolar até as 14hrs na cama</item>
+        <item>Qualquer musica do Kero Kero Bonito</item>
+        <item>Responde com memes.</item>
+        <item>Abro o facebook e espero o código resolver sozinho</item>
+    </string-array>
+
+</resources>
